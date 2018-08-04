@@ -1,4 +1,4 @@
-# Deep Learning A-Z
+# Deep Learning A-Z™: Hands-On Artificial Neural Networks
 ---
 Course: [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/)
 
