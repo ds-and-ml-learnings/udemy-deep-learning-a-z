@@ -19,10 +19,10 @@ As a Python aficionado, I was highly pleased that the code implemented many stap
 
 ---
 ## Sections:
-1. Artificial Neural Networks
-2. Convolutional Neural Networks
-3. Recurrent Neural Networks
-4. Self-Organizing Maps
-5. Boltzmann Machines
-6. Auto Encoders
+1. [Artificial Neural Networks](https://github.com/alexguanga/udemy-deep-learning/tree/master/01_ArtificialNeuralNetworks)
+2. [Convolutional Neural Networks](https://github.com/alexguanga/udemy-deep-learning/tree/master/02_ConvolutionalNeuralNetworks)
+3. [Recurrent Neural Networks](https://github.com/alexguanga/udemy-deep-learning/tree/master/03_RecurrentNeuralNetworks)
+4. [Self-Organizing Maps](https://github.com/alexguanga/udemy-deep-learning/tree/master/04_SelfOrganizingMaps)
+5. [Boltzmann Machines](https://github.com/alexguanga/udemy-deep-learning/tree/master/05_BoltzmannMachines)
+6. [Auto Encoders](https://github.com/alexguanga/udemy-deep-learning/tree/master/06_AutoEncoders)
 ---
